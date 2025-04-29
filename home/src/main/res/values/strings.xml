@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="more_sold">Mais Vendidos</string>
+    <string name="big_success">Maiores sucessos do WeMovies</string>
+    <string name="add_to_cart">ADICIONAR AO CARRINHO</string>
+    <string name="dollar_sign">R$</string>
+    <string name="home_empty_nothing">Parece que não há nada\n por aqui :(</string>
+    <string name="reload_page">Recarregar página</string>
+
+</resources>

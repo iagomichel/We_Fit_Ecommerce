@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_home_button_unselected">#009EDD</color>
+    <color name="color_home_button_selected">#039B00</color>
+    <color name="color_home_background">#2F2E41</color>
+</resources>
